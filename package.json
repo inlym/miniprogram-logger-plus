@@ -1,0 +1,15 @@
+{
+  "name": "miniprogram-logger-plus",
+  "version": "1.0.0",
+  "description": "一款高效实用且可扩展的小程序日志工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "miniprogram",
+    "inlym"
+  ],
+  "author": "inlym",
+  "license": "MIT"
+}
