@@ -1,7 +1,7 @@
 {
   "name": "miniprogram-logger-plus",
-  "version": "1.0.1",
-  "description": "一款高效实用且可扩展的小程序日志工具",
+  "version": "1.1.0",
+  "description": "一款高效易用且可扩展的小程序日志工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
