@@ -3,7 +3,7 @@ export interface Options {
 }
 
 export declare class Logger {
-  constructor(options: Options)
+  constructor(options?: Options)
 
   debug(...args: any[]): void
   info(...args: any[]): void

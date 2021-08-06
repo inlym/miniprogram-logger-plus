@@ -1,6 +1,6 @@
 {
   "name": "miniprogram-logger-plus",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "一款高效易用且可扩展的小程序日志工具",
   "main": "index.js",
   "typings": "./index.d.ts",
