@@ -62,7 +62,7 @@ npm i miniprogram-logger-plus
 
 ```js
 // 引入
-const Logger = require('miniprogram-logger-plus')
+const { Logger } = require('miniprogram-logger-plus')
 
 // 实例化
 const logger = new Logger()
